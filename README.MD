@@ -1,0 +1,2 @@
+# Chart Image Classification using CNN
+The task is to develop a CNN-based classification architecture for classifying chart images into one of five chart classes. The dataset contains images of five chart classes, namely "Line", "Dot Line", "Horizontal Bar", "Vertical Bar", and "Pie" chart. The task can be divided into two parts: Task 2 involves implementing a two-layer CNN and evaluating its performance, while Task 3 involves fine-tuning a pre-trained network for this task.
